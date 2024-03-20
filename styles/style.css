@@ -211,7 +211,7 @@
   display: flex;
 }
 
-.button__press__like{
+.button__press__like {
   padding: 0px 25px 25px 0px;
   justify-content: end;
 }
@@ -371,11 +371,11 @@
 
 /* Фильтры для картинок */
 
-.filter-saturate{
+.filter-saturate {
   filter: saturate(200%);
 }
 
-.filter-sepia{
+.filter-sepia {
   filter: sepia(80%);
 }
 
@@ -391,7 +391,7 @@
   filter: blur(1.2rem);
 }
 
-.filter-grayscale{
+.filter-grayscale {
   filter: grayscale(100%);
 }
 
