@@ -1,2 +1,2 @@
 Репозиторий проекта: https://github.com/chichurann/zakrivayuschiy-teg-f
-Опубликованный проект: 
+Опубликованный проект: https://chichurann.github.io/zakrivayuschiy-teg-f/

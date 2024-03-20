@@ -183,6 +183,7 @@
 
 .watermark__text {
   position: absolute;
+  z-index: 2;
   right:0;
   padding: 27px 25px 0px 0px;
   font-size: 14px;
